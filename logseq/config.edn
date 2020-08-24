@@ -13,6 +13,8 @@
  ;; need to use Markdown for some projects.
  ;; :preferred-format ""
 
+:journals-basis "daily"
+
  ;; Git settings
  :git-pull-secs 60
  :git-push-secs 10
