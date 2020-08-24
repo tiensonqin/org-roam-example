@@ -13,7 +13,8 @@
  ;; need to use Markdown for some projects.
  ;; :preferred-format ""
 
-:journal-basis "daily"
+ :journal-basis "daily"
+ :date-formatter "yyyy-MM-dd"
 
  ;; Git settings
  :git-pull-secs 60
