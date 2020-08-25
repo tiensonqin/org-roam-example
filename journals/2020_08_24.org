@@ -4,7 +4,9 @@
    CLOSED: [2020-08-25 Tue 11:10]
    - State "DONE"       from              [2020-08-25 Tue 11:10]
 
-** NOW Check local images
+** DONE Check local images
+   CLOSED: [2020-08-25 Tue 12:09]
+   - State "DONE"       from "NOW"        [2020-08-25 Tue 12:09]
    - State "NOW"        from              [2020-08-25 Tue 11:10]
 
    #+CAPTION: Lijiang
