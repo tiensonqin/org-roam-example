@@ -23,6 +23,7 @@
 * Aug 23rd, 2020
 * Aug 24th, 2020
 * Aug 25th, 2020
+** Batch write to IndexedDB
 * Aug 26th, 2020
 * Aug 27th, 2020
 * Aug 28th, 2020
