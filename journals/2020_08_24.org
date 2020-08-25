@@ -1,3 +1,12 @@
 #+title: 2020-08-24
 
-** TODO Check whether ~:journal-basis~ works
+** DONE Check whether ~:journal-basis~ works
+   CLOSED: [2020-08-25 Tue 11:10]
+   - State "DONE"       from              [2020-08-25 Tue 11:10]
+
+** NOW Check local images
+   - State "NOW"        from              [2020-08-25 Tue 11:10]
+
+   #+CAPTION: Lijiang
+   #+NAME:   fig:lijiang
+   [[./img/lijiang.jpg]]
