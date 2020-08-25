@@ -9,4 +9,4 @@
 
    #+CAPTION: Lijiang
    #+NAME:   fig:lijiang
-   [[./img/lijiang.jpg]]
+   [[../img/lijiang.jpg]]
